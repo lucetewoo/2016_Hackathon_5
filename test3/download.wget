@@ -1,0 +1,60 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+		<title> 프 브 </title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+		<link rel="stylesheet" href="../asset/css/font_awesome/css/font-awesome.min.css">
+		<link rel="stylesheet" href="../asset/css/main.css">
+		<script src="//code.jquery.com/jquery.min.js"></script>
+		<script src="//maxcdn.bootstrapcdn.com/bootstrap/latest/js/bootstrap.min.js"></script>
+		<script src="../asset/js/main.js"></script>
+		
+					<nav class="navbar navbar-default">
+			 	<div class="container-fluid">
+			    	<div class="navbar-header">
+
+			    	<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+				        <span class="sr-only">Toggle navigation</span>
+				        <span class="icon-bar"></span>
+				        <span class="icon-bar"></span>
+				        <span class="icon-bar"></span>
+			      	</button>
+			    					    	</div>
+			  	</div>
+			</nav>
+		</head>
+	<body>
+		
+	
+		<div id="container">
+
+			
+
+
+<form enctype="multipart/form-data" action="" method="POST">
+    <input type="hidden" name="MAX_FILE_SIZE" value="300000" />
+    이 파일을 전송합니다: <input name="userfile" type="file" />
+    <input type="submit" value="파일 전송" />
+</form>
+
+
+					</div>
+				</div>
+	        </div>
+		</div>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+		<script src="./asset/js/main.js"></script>
+		<!-- Menu Toggle Script -->
+	    <script>
+	    $("#menu-toggle").click(function(e) {
+	        e.preventDefault();
+	        $("#wrapper").toggleClass("toggled");
+	    });
+	    </script>
+	</body>
+</html>

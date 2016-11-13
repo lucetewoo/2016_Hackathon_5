@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PatBrush", "PatBrush.vcproj", "{F068118E-F77E-4A56-A1F9-EA2201E87969}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F068118E-F77E-4A56-A1F9-EA2201E87969}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F068118E-F77E-4A56-A1F9-EA2201E87969}.Debug|Win32.Build.0 = Debug|Win32
+		{F068118E-F77E-4A56-A1F9-EA2201E87969}.Release|Win32.ActiveCfg = Release|Win32
+		{F068118E-F77E-4A56-A1F9-EA2201E87969}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
